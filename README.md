@@ -8,8 +8,11 @@ MediMind Bot is a medical data extraction and analysis tool designed to reduce h
 Possible Use Cases:
 
   Medical Research: Researchers can use MediMind Bot to extract and analyze data from medical journals and publications, facilitating research in various medical fields.
+
   Clinical Decision Support: Healthcare professionals can leverage the bot's insights to make informed clinical decisions and provide personalized patient care.
+  
   Drug Discovery: Pharmaceutical companies can use the bot to analyze drug-related data and identify potential candidates for drug discovery and development.
+  
   Healthcare Analytics: Hospitals and healthcare organizations can use the bot to analyze patient data, trends, and outcomes to improve healthcare delivery and patient outcomes.
 
 
