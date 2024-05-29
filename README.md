@@ -14,22 +14,27 @@ Possible Use Cases:
 
 
 How to Run
+
 Command 1
+
 Pull the Qdrant Docker image:
 
     docker pull qdrant/qdrant
 
 Command 2
+
 Run the Qdrant Docker container with port mapping and volume mounting:
 
     docker run -p 6333:6333 -p 6334:6334 -v $(pwd)/qdrant_storage:/qdrant/storage:z qdrant/qdrant
 
 Command 3
+
 Run the data ingestion script:
 
     python ingest.py
 
 Command 4
+
 Start the FAST API server using uvicorn:
 
     uvicorn app:app
